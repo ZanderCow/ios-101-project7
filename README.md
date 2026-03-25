@@ -2,9 +2,9 @@
 
 Submitted by: **Your Name Here**
 
-**Name of your app** is an app that ... [TODO] 
+**Name of your app** is an app that ... Very run down thing of Tumblr.  
 
-Time spent: **X** hours spent in total
+Time spent: **2** hours spent in total
 
 ## Required Features
 
@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
-https://www.loom.com/share/e8fc092f2ea54a9b8367884833d4964a
+[https://www.loom.com/share/e8fc092f2ea54a9b8367884833d4964a](https://www.loom.com/share/e8fc092f2ea54a9b8367884833d4964a)
 
 ## Notes
 
