@@ -1,6 +1,6 @@
 # Project 7 - * Tumblr app V2*
 
-Submitted by: **Your Name Here**
+Submitted by: **Zander Cowan**
 
 **Name of your app** is an app that ... Very run down thing of Tumblr.  
 
